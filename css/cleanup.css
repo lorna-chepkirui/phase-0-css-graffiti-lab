@@ -1,1 +1,25 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+
+#wall{
+    position: fixed;
+}
+
+#tag-3.slick.wickd{
+    display: relative;
+}
+
+#tag-4{
+    width: 80vw;
+    height: 70vh;
+    opacity: 98%;
+}
+
+#tag-5.slick{
+    width: 80vw;
+    height: 70vh;
+    position: fixed;
+    opacity: 95%;
+}
